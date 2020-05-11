@@ -1,0 +1,8 @@
+export const SET_PLAYING = 'SET_PLAYING'
+export const SET_PLAYLIST = 'SET_PLAYLIST'
+export const SET_SEQUENCELIST = 'SET_SEQUENCELIST'
+export const SET_MODE = 'SET_MODE'
+export const SET_CURRENTINDEX = 'SET_CURRENTINDEX'
+export const SET_ALBUMS = 'SET_ALBUMS'
+export const SET_PLAYHISTORY = 'SET_PLAYHISTORY'
+
